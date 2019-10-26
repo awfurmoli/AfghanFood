@@ -1,3 +1,5 @@
 Responsive front-end web App aimed towards food delivery businesses.
-Planned, designed, and developed in HTML5, CSS3, JavaScript, jQuery, and its plugins
+Developed in HTML5 and CSS3 , made responsive by using media querires.
 Basic performance and search engine optimizations.
+
+View it Live : https://awfurmoli.github.io/AfghanFood/
